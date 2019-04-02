@@ -45,7 +45,7 @@ Below are download links for two WordPress theme challenges, with different comp
 
 *   You need to create a homepage only. Don't bother about inner-pages styling.
 *   You must use WordPress "Theme Options Page" for different settings. Do not hard code a lot of stuff.
-*   Please use [WordPress Theme Development Starter](https://github.com/SocialChamps/WordPress-Engineer/blob/master/wp-theme-setup.zip) starter theme for this challenge
+*   Please use [WordPress Theme Development Starter](https://github.com/SocialChamps/WordPress-Engineer/blob/master/wp-theme-setup.zip) for this challenge
 
 
 
