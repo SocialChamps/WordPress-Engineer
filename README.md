@@ -38,7 +38,7 @@ Please create a WordPress theme based on details provided in the attachment. Att
 
 Below are download links for two WordPress theme challenges, with different complexity levels. You can take any one based on your skills, expertise and interests.
 
-*   [Simple PSD to WordPress Theme Assignment](# "Download Assignment")
+*   [Simple PSD to WordPress Theme Assignment](https://github.com/SocialChamps/WordPress-Engineer/blob/master/PSD-to-Theme-HomePage.zip "Download Assignment")
 
 
 **Important Notes:**
