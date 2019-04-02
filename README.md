@@ -26,7 +26,7 @@ We have two kinds of challenges for WordPress:
 1.  [WordPress Theme Challenges](#challenge-1-wordpress-theme-challenge)
 2.  [WordPress Plugin Challenges](#challenge-2-wordpress-plugin-challenge)
 
-You need to complete any one. If you wish to complete two, we won't mind. ;-)
+
 
 ### Challenge-1: WordPress Theme Challenge
 
@@ -60,10 +60,10 @@ There are already more than 10000 WordPress plugins out there. So it’s really 
 that items list in front end with the shortcode.
 3. Create a setting page for the plugin where user can add items to the list
 4. List can be simply of,
-        Item 1
-        Item 2
-        Item 3
-        Etc...
+        *  Item 1
+        *  Item 2
+        *  Item 3
+        *  Etc...
 
 ### Admin-Side:
 1. Create an admin-side settings page.
