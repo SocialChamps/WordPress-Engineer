@@ -60,6 +60,7 @@ There are already more than 10000 WordPress plugins out there. So it’s really 
 that items list in front end with the shortcode.
 3. Create a setting page for the plugin where user can add items to the list
 4. List can be simply of,
+
         *  Item 1
         *  Item 2
         *  Item 3
